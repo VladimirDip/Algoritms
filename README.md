@@ -36,3 +36,7 @@
   - [N. Ограниченная очередь](https://github.com/VladimirDip/Algoritms/tree/main/Second_algoritms#n-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C)
   - [O. Шифрование](https://github.com/VladimirDip/Algoritms/tree/main/Second_algoritms#o-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   - [P. Списочная очередь](https://github.com/VladimirDip/Algoritms/tree/main/Second_algoritms#p-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C)
+  
+   - **Sprint 12. Topic 3. Final tasks**
+  - [A. Калькулятор](https://github.com/VladimirDip/Algoritms/tree/main/Final_task#a-%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
+  - [B. Циклы](https://github.com/VladimirDip/Algoritms/tree/main/Final_task#b-%D1%86%D0%B8%D0%BA%D0%BB%D1%8B)
